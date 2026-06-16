@@ -1,2 +1,2 @@
 # lab-gestao-configuracao
- Laboratório de Engenharia de Software
+ Repositório criado para aula:Laboratório de Engenharia de Software
